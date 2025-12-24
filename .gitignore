@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/*.png
+outputs/cleaned_farm_sales.csv
+.vscode/
